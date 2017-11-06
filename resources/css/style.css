@@ -35,9 +35,22 @@ h5{
   font-size: 14px;
   text-align: center;
 }
-.understand{
+.imperative{
   font-family: Helvetica;
   font-size: 23px;
   font-weight: bold;
   text-align: center;
+}
+.ny{
+  font-family:Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color:white;
+}
+.broadway{
+  font-family:Helvetica;
+  font-size:11px;
+  color: white;
+  background-color:dimgray;
+  text-align: left;
 }
