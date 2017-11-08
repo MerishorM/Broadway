@@ -34,6 +34,7 @@ h5{
   font-family: Helvetica;
   font-size: 14px;
   text-align: center;
+  color: black;
 }
 .imperative{
   font-family: Helvetica;
@@ -55,7 +56,15 @@ h5{
   text-align: left;
 }
 .b{
+  font-size: 18px;
   text-align: left;
   color: white;
   background-color: dimgray;
+}
+
+.footer{
+  background-color: dimgray;
+ font-size: 11px;
+ color: white;
+ text-align: left;
 }
